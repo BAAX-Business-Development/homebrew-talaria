@@ -1,0 +1,14 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/BAAX-Business-Development/Talaria/releases/download/v0.1.1/talaria_0.1.1_windows_amd64.zip",
+            "bin": [
+                "talaria.exe"
+            ],
+            "hash": "394559460f43d0347fd369f32853642e228ca4aacd9850f1a57d3d7c00ff1f07"
+        }
+    },
+    "homepage": "https://github.com/BAAX-Business-Development/Talaria",
+    "description": "Build and deploy a Talaria app as a package."
+}
