@@ -1,12 +1,12 @@
 {
-    "version": "0.19.4",
+    "version": "0.19.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.19.4/talaria_0.19.4_windows_amd64.zip",
+            "url": "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.19.5/talaria_0.19.5_windows_amd64.zip",
             "bin": [
                 "talaria.exe"
             ],
-            "hash": "823945523308cb136644e72e538220a62934317f09db784603c2ac655e12642f"
+            "hash": "9b79397a93c9ec8a783b3733be787613f35c1b50d70bd34c931dce06832497df"
         }
     },
     "homepage": "https://github.com/BAAX-Business-Development/Talaria",
