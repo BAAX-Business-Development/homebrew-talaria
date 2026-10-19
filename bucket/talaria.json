@@ -1,12 +1,12 @@
 {
-  "version": "0.20.0",
+  "version": "0.21.0",
   "description": "Build, deploy and operate Talaria apps.",
   "homepage": "https://github.com/BAAX-Business-Development/Talaria",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.20.0/talaria-x86_64-pc-windows-msvc.exe#/talaria.exe",
-      "hash": "08f8cd6010a794074d78e062dd34d2b8537ae4f3f1af4965e73a17e4707dc637"
+      "url": "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.21.0/talaria-x86_64-pc-windows-msvc.exe#/talaria.exe",
+      "hash": "f75fac75b84d07b69d3063ebe89916b8d09df3f4588f3519ab64f2698b40a1be"
     }
   },
   "bin": "talaria.exe"
