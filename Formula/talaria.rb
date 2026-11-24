@@ -1,27 +1,27 @@
 class Talaria < Formula
   desc "Build, deploy and operate Talaria apps"
   homepage "https://github.com/BAAX-Business-Development/Talaria"
-  version "0.28.0"
+  version "0.28.1"
 
   on_macos do
     on_arm do
-      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.0/talaria-aarch64-apple-darwin"
-      sha256 "ffe954697acaa79185f675916802ed94d587b0714e4e2ce876d7b8cfd3ce4448"
+      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.1/talaria-aarch64-apple-darwin"
+      sha256 "be0142f13458549851299ef6884e08bccc1e85a854f4e7d70a8efdcbb7dab707"
     end
     on_intel do
-      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.0/talaria-x86_64-apple-darwin"
-      sha256 "d4d4156d38b4450cbcb783d839bb459cba444552587ea1be6003c65989ec4ebf"
+      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.1/talaria-x86_64-apple-darwin"
+      sha256 "99fb9099d18d11f2e607e862f576e859e88c438cd74625c33fed56470ddae85c"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.0/talaria-aarch64-unknown-linux-musl"
-      sha256 "64c27cd10599cca4a12c7f78677480ac75344f2658b7cbed7850c86146c51c91"
+      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.1/talaria-aarch64-unknown-linux-musl"
+      sha256 "45f356721730e5fd25945d20f351e7a3fc40dd5152f7e8ee104a6a5db3e57ada"
     end
     on_intel do
-      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.0/talaria-x86_64-unknown-linux-musl"
-      sha256 "d9802c53f7c951dfd69bcdecddff42787d135e6d2dc7bee307f3b156418dcde3"
+      url "https://github.com/BAAX-Business-Development/homebrew-talaria/releases/download/v0.28.1/talaria-x86_64-unknown-linux-musl"
+      sha256 "c87f918552541594fec0c5f966c6084769fe06d4dac14cfe65f0c54118f7e108"
     end
   end
 
